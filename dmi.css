@@ -1,0 +1,48 @@
+body{
+    background-image: url("change.jpg");
+    background-size:45%;
+    font-family:sans-serif;
+
+}
+.main{
+    color:blue;
+    background-color: white;
+    width:400px;
+    height: 40px;
+    border-radius: 35px;
+    
+}
+.call{
+    color:blue;
+    background-color:white;
+    width:400px;
+    height: 40px;
+    border-radius: 35px;
+    
+}
+img{
+    width: 100px;
+    height: 250px;
+    border-radius:1000px;
+    outline-style:solid;
+    outline-color: white;
+    
+    
+}
+
+a{
+    color:blue;
+    text-decoration:none;
+}
+p{
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+.me{
+    background-color:white;
+    width:400px;
+    height: 40px;
+    border-radius: 35px;
+    color:blue;
+    text-decoration: none;
+}
